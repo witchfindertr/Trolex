@@ -6,7 +6,7 @@ Information about computer, Battery Information, Location Information, Router In
 
 😛 Credits:
    [NYAN-x-CAT](https://github.com/NYAN-x-CAT) - For making some stealer functions!
-   [LimerBoy](https://github.com/LimerBoy) - For making lot Telegram API functions
+   [LimerBoy](https://github.com/LimerBoy) - For making lot of Telegram API functions
 
 ⚠️ Warning:
 
